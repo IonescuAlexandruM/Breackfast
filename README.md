@@ -16,7 +16,9 @@ This morning I had a boul full of cereals, with a lot of milk. For drinking, I h
 
 ## Things to do for Pro dev
 [x]Week 10 Read me demo
+
 [ ]Assignment 1 pro dev 
+
 [ ]Pacman
 
 
